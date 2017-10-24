@@ -4,6 +4,7 @@
   "description": "Eslint settings for Chisel.",
   "main": "index.js",
   "author": "Xfive",
+  "repository": "git@github.com:xfiveco/eslint-config-chisel.git",
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "^8.0.1",
