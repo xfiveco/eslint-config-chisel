@@ -10,11 +10,13 @@ You'll have to install Prettier on your own in order to use it. It won't be incl
 
 We recommend to use Yarn however you are free to use NPM. Snippet from the example below will install Eslint and Prettier as you'll need both of them to make use of this config.
 
-`yarn add --dev eslint prettier eslint-config-chisel`
+```
+yarn add --dev eslint prettier eslint-config-chisel
+```
 
 ## Usage
 
-Simply add this to your `.eslintrc`:
+Add this to your `.eslintrc`:
 
 ```json
 {
