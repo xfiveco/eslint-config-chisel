@@ -6,6 +6,9 @@
   "author": "Xfive",
   "repository": "git@github.com:xfiveco/eslint-config-chisel.git",
   "license": "MIT",
+  "scripts": {
+    "test": "exit 0"
+  },
   "dependencies": {
     "babel-eslint": "^9.0.0",
     "eslint-config-airbnb-base": "^13.1.0",
