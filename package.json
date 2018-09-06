@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-chisel",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Eslint settings for Chisel.",
   "main": "index.js",
   "author": "Xfive",
